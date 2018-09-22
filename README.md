@@ -6,3 +6,10 @@
 ```
 $ python run.py
 ```
+
+2. sdr cleaner
+清理kindle里无效的sdr文件夹    
+使用方法：
+```
+$ python run.py
+```
